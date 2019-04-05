@@ -1,0 +1,33 @@
+
+
+#code {
+    border: 11px solid;
+    color: rgb(67, 230, 135);
+    position: fixed;
+    width: 850px;
+    height: 200px;
+    background-color: black;
+    
+}
+
+#data {
+    color: rgb(79, 31, 168);
+    border: 11px solid;
+    position: fixed;
+    width: 400px; 
+    height: 628px;
+    left: 920px; 
+    top: 8px;
+    right: 10px;
+    
+}
+
+#canvas {
+    border: 11px solid;
+    color: rgb(90, 16, 28);
+}
+
+.text {
+    color: black;
+    font-family: 'Press Start 2P'; 
+}

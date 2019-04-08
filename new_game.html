@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <title>Game T</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="design.css" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
     </head>
@@ -10,10 +12,12 @@
         <div id="data">
             <h3 class="text" align="center">Player Status</h3>
         </div>
-        <div id="code">
-            
+        <div id="code" class="editor">
+            <div id="heading" contenteditable="true"></div>
+            <div id="content" contenteditable="true"></div>
         </div>
-
+        
+        <script src="app.js"></script>
         <script src="game.js"></script>
     </body>
 </html>

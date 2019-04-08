@@ -5,7 +5,7 @@
     color: rgb(67, 230, 135);
     position: fixed;
     width: 850px;
-    height: 200px;
+    height: 175px;
     background-color: black;
     
 }
@@ -30,4 +30,8 @@
 .text {
     color: black;
     font-family: 'Press Start 2P'; 
+}
+
+.editor {
+    color: violet;
 }
